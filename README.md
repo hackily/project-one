@@ -1,2 +1,2 @@
 # project-one
-Unity game playground
+Unity game playground, for testing.
